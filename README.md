@@ -4,4 +4,4 @@ Themis.AI: Identifying Early Help Referrals for Local Authorities with Machine L
 
 Information about the project can be found here. https://datascienceplus.blog/themis-ai/
 
-This Github will include the code and sample dataset once our paper is published.
+This Github repository will include the code and sample dataset once our paper is published.
